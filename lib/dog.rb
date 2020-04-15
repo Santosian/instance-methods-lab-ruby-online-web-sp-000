@@ -3,6 +3,7 @@ class Dog
   
   
   def bark
-    puts 
+    puts "The Dog is sitting"
+  end
   
 end
